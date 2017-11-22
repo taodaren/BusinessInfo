@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessInfo</string>
+    <string name="text_title">张亮麻辣烫（通化分店）——曾经的小店</string>
+    <string name="text_title_sub">小店简介</string>
+    <string name="text_phone">400-000-4345</string>
+    <string name="text_time">夏：8:00-21:30\ \ \ \ \ \ \ 冬：9:00-21:30</string>
+    <string name="text_address">哈尔滨南岗区嵩山路91-3号</string>
+    <string name="text_website">https://github.com/taodaren</string>
+    <string name="text_info">黑龙江省张亮餐饮有限公司,是一家集品牌管理、美食研发、原料供应、餐饮连锁、特许经营于一体的的餐饮管理机构。\n\n曾经在老家加盟过，小店开了近两年，生意还算火爆，可以说是真正让人放心的麻辣烫！完全可以保证食材的新鲜，物料的纯正，吃的放心。</string>
+</resources>
